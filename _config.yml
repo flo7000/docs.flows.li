@@ -3,7 +3,10 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
-logo: "assets/icons/flows-icon.png"
+logo: "/assets/icons/flows-icon.png"
+favicon_ico: "/assets/icons/flows-icon.png"
+
+
 color_scheme: dark
 aux_links:
   flows.li: https://flows.li
@@ -14,4 +17,4 @@ aux_links_new_tab: true
 
 # deactivating for now
 search_enabled: false 
-nav_enabled: false
+nav_enabled: true
