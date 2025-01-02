@@ -2,7 +2,6 @@
 title: sync2nas
 layout: home
 #nav_exclude: true
-permalink: /s2n
 nav_order: 2
 has_children: true
 ---
