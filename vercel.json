@@ -1,0 +1,16 @@
+{
+    "rewrites": [
+      {
+        "source": "/:slug/",
+        "destination": "/:slug"
+      }
+    ],
+    "redirects": [
+      {
+        "source": "/:slug/",
+        "destination": "/:slug",
+        "permanent": true
+      }
+    ]
+  }
+  
