@@ -1,7 +1,7 @@
 ---
 title: sync2nas
 layout: home
-permalink: /sync2nas
+permalink: /sync2nas3
 #nav_exclude: true
 nav_order: 2
 #has_children: true
