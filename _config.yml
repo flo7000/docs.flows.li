@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 #logo: "/assets/icons/docs-flows-icon.png"
 favicon_ico: "/assets/icons/flows-icon.png"
+permalink: pretty
 
 
 color_scheme: dark
