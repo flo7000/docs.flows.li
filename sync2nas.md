@@ -2,7 +2,7 @@
 title: sync2nas
 layout: home
 #nav_exclude: true
-nav_order: 2
+nav_order: 4
 #has_children: true
 ---
 
