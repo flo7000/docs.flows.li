@@ -1,5 +1,5 @@
 ---
-title: requirements | wall of shame
+title: requirements
 layout: home
 #nav_exclude: true
 nav_order: 3
