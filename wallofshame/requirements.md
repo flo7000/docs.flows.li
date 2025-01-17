@@ -34,7 +34,7 @@ You need one of the following EntraID / Defender roles to be able to run a query
 ## PowerShell Modules
 
 |**Module Name**                    | **Purpose**                                    | **Version** |
-|--------------------------------|--------------------------------------------|---------|
+|:--------------------------------|:--------------------------------------------|:---------|
 | Microsoft.Graph.Planner        | creating MS Planner Tasks with MsGraph API | 2.25.0  |
 | Microsoft.Graph.Authentication | authenticating in MsGraph                  | 2.25.0  |
 | Az.Accounts                    | login with Managed Identity                | 2.15.0  |
