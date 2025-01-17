@@ -15,6 +15,8 @@ This is a *bare-minimum* template to create a Jekyll site that uses the [Just th
 
 ### Asset Management
 
+### Office Ressources
+
 ----
 ## Permissions
 
@@ -27,3 +29,13 @@ You need one of the following EntraID / Defender roles to be able to run a query
 - Microsoft Defender for Endpoint Administrator (Defender)
 
 ### Rights for automation account
+
+----
+## PowerShell Modules
+
+**| Module Name                    | Purpose                                    | Version |**
+|--------------------------------|--------------------------------------------|---------|
+| Microsoft.Graph.Planner        | creating MS Planner Tasks with MsGraph API | 2.25.0  |
+| Microsoft.Graph.Authentication | authenticating in MsGraph                  | 2.25.0  |
+| Az.Accounts                    | login with Managed Identity                | 2.15.0  |
+| AzTable                        | managing Storage Account Tables            | 2.1.0   |
