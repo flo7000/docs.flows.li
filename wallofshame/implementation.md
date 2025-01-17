@@ -3,7 +3,7 @@ title: implementation
 layout: home
 #nav_exclude: true
 nav_order: 4
-#has_children: true
+has_children: true
 parent: wall of shame
 ---
 
