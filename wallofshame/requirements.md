@@ -2,7 +2,7 @@
 title: requirements
 layout: home
 #nav_exclude: true
-nav_order: 3
+nav_order: 2
 #has_children: true
 parent: wall of shame
 ---
